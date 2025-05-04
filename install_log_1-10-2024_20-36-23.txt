@@ -1,0 +1,204 @@
+cncKad installation log for 1-10-2024 20:36:23
+------------------------------------------------
+
+SetProcesorType   Intel processor
+1
+------------------------
+GetSetVersionAndBuildInRegistry   ACTION_CHECK results:  0, 0
+1
+------------------------
+SetupFolders   priviliges and Registry access OK
+1
+------------------------
+ValidateDirectoryAccess   setting Parts path to local: C:\Metalix\P, test file ok, disk space ok
+0
+------------------------
+ValidateDirectoryAccess   setting Machines path to local: C:\Metalix\Machines, test file ok, disk space ok
+0
+------------------------
+ValidateDirectoryAccess   setting EXE path to local: C:\Metalix, test file ok, disk space ok
+0
+------------------------
+CheckPriorInstallation   found pre-existing Machines directory
+1
+------------------------
+Installation summary
+	Installation type:	Typical
+	General settings:
+		Setup type:		Update
+		System units:		Inches
+		Interface language:		English
+		Report language:		English
+		cncKad Help language:	English
+		AutoNest Help language:	English
+		Example files:		Included
+		DFT Font files:		Included
+		HASP Installation: 		Yes
+		CAD Link Installation: 	Yes
+		3D Engine: 		Yes
+		Tube 3D Simulation: 	Yes
+		Camera Installation: 		No
+	Machines selected:
+		AMADA
+			Aries machines
+			Apelio machines
+			Arcade and Europe
+			Coma machines
+			Laser machines
+			L Shear
+			Octo334
+			Pega machines
+			Servo-Electric (EM, AC)
+			Spingar
+			Vela
+			Vipros machines
+		BYSTRONIC
+			Bystronic machines
+		TRUMPF
+			TCL Laser models
+			Trumpf Minimatic 100
+			Trumpf 120 & 160
+			Trumpf 160R
+			Trumpf 180 models
+			Trumpf 240 Sinumeric 3
+			Trumpf 200 & 500 models
+			Trumpf 235
+			Trumpf 240 Bosch
+			Trumpf 240 Rotate/Laser
+			Trumpf 260 with Laser 
+			Trumpf 260 Rotating
+			Trumpf 300 K/PK
+			Trunpf 300 W2/PW2
+			Trumpf 2000, 2020, 5000
+			Trumpf 600, 6000, 7000
+	Destination paths:
+		Start menu folder:	Metalix
+		Program files:	C:\Metalix\cncKad.18
+		Machine files:	C:\Metalix\Update\Update_18_3_224
+		Example files:	C:\Metalix\P
+1
+------------------------
+MoveFileData   started 
+1
+------------------------
+------------------------
+FeatureToInstall: Misc\DFT_FONTS
+FeatureToInstall: Misc\Help\HelpCncKad\English
+FeatureToInstall: Misc\Help\HelpAutoNest\English
+FeatureToInstall: Misc\Examples\ExamplesCncKad\EX_MM
+FeatureToInstall: Misc\Examples\ExamplesCncKad\EX_Inches
+FeatureToInstall: Misc\Examples\ExamplesCncKad\Parametric
+FeatureToInstall: Misc\Examples\ExamplesCncKad\Unfolder
+FeatureToInstall: Misc\Examples\ExamplesAutoNest
+FeatureToInstall: Machines\AMADA\Default\CFG
+FeatureToInstall: Machines\AMADA\Default\EXAMPLES
+FeatureToInstall: Machines\AMADA\Default\HDR_END
+FeatureToInstall: Machines\AMADA\Default\Turrets
+FeatureToInstall: Machines\AMADA\Default\Docs
+FeatureToInstall: Machines\AMADA\ARIESMODELS\MDLAS
+FeatureToInstall: Machines\AMADA\ARIESMODELS\MDB
+FeatureToInstall: Machines\AMADA\APELIOMODELS\MDLAS
+FeatureToInstall: Machines\AMADA\APELIOMODELS\MDB
+FeatureToInstall: Machines\AMADA\ARCADEANDEUROPEMODELS\MDLAS
+FeatureToInstall: Machines\AMADA\ARCADEANDEUROPEMODELS\MDB
+FeatureToInstall: Machines\AMADA\COMAMODELS\MDLAS
+FeatureToInstall: Machines\AMADA\COMAMODELS\MDB
+FeatureToInstall: Machines\AMADA\LASERMODELS\MDLAS
+FeatureToInstall: Machines\AMADA\LASERMODELS\MDB
+FeatureToInstall: Machines\AMADA\L_SHEAR\MDLAS
+FeatureToInstall: Machines\AMADA\L_SHEAR\MDB
+FeatureToInstall: Machines\AMADA\OCTO334\MDLAS
+FeatureToInstall: Machines\AMADA\OCTO334\MDB
+FeatureToInstall: Machines\AMADA\PEGAMODELS\MDLAS
+FeatureToInstall: Machines\AMADA\PEGAMODELS\MDB
+FeatureToInstall: Machines\AMADA\SERVO_ELECTRIC\MDLAS
+FeatureToInstall: Machines\AMADA\SERVO_ELECTRIC\MDB
+FeatureToInstall: Machines\AMADA\SERVO_ELECTRIC\LZH_UTIL
+FeatureToInstall: Machines\AMADA\SPINGAR\MDLAS
+FeatureToInstall: Machines\AMADA\SPINGAR\MDB
+FeatureToInstall: Machines\AMADA\VELA\MDLAS
+FeatureToInstall: Machines\AMADA\VELA\MDB
+FeatureToInstall: Machines\AMADA\VIPROSMODELS\MDLAS
+FeatureToInstall: Machines\AMADA\VIPROSMODELS\MDB
+FeatureToInstall: Machines\BYSTRONIC\BYSTRONIC-MODELS\MDLAS
+FeatureToInstall: Machines\BYSTRONIC\BYSTRONIC-MODELS\MDB
+FeatureToInstall: Machines\BYSTRONIC\Default\CFG
+FeatureToInstall: Machines\BYSTRONIC\Default\EXAMPLES
+FeatureToInstall: Machines\TRUMPF\Default\CFG
+FeatureToInstall: Machines\TRUMPF\Default\EXAMPLES
+FeatureToInstall: Machines\TRUMPF\Default\HDR_END
+FeatureToInstall: Machines\TRUMPF\Default\MDB
+FeatureToInstall: Machines\TRUMPF\Default\Turrets
+FeatureToInstall: Machines\TRUMPF\Default\Docs
+FeatureToInstall: Machines\TRUMPF\Default\Simulation_texts
+FeatureToInstall: Machines\TRUMPF\TCLMODELS\MDLAS
+FeatureToInstall: Machines\TRUMPF\TCLMODELS\MDB
+FeatureToInstall: Machines\TRUMPF\TRM100\MDLAS
+FeatureToInstall: Machines\TRUMPF\TRM100\MDB
+FeatureToInstall: Machines\TRUMPF\TRM120R\MDLAS
+FeatureToInstall: Machines\TRUMPF\TRM120R\MDB
+FeatureToInstall: Machines\TRUMPF\TRM160R\MDLAS
+FeatureToInstall: Machines\TRUMPF\TRM160R\MDB
+FeatureToInstall: Machines\TRUMPF\TRM180_ALL\MDLAS
+FeatureToInstall: Machines\TRUMPF\TRM180_ALL\MDB
+FeatureToInstall: Machines\TRUMPF\TRM240-SIEMENS\MDLAS
+FeatureToInstall: Machines\TRUMPF\TRM240-SIEMENS\MDB
+FeatureToInstall: Machines\TRUMPF\TRM200+500\MDLAS
+FeatureToInstall: Machines\TRUMPF\TRM200+500\MDB
+FeatureToInstall: Machines\TRUMPF\TRM235\MDLAS
+FeatureToInstall: Machines\TRUMPF\TRM235\MDB
+FeatureToInstall: Machines\TRUMPF\TRM240\MDLAS
+FeatureToInstall: Machines\TRUMPF\TRM240\MDB
+FeatureToInstall: Machines\TRUMPF\TRM240R+L\MDLAS
+FeatureToInstall: Machines\TRUMPF\TRM240R+L\MDB
+FeatureToInstall: Machines\TRUMPF\TRM260L\MDLAS
+FeatureToInstall: Machines\TRUMPF\TRM260L\MDB
+FeatureToInstall: Machines\TRUMPF\TRM260R\MDLAS
+FeatureToInstall: Machines\TRUMPF\TRM260R\MDB
+FeatureToInstall: Machines\TRUMPF\TRM300K\MDLAS
+FeatureToInstall: Machines\TRUMPF\TRM300K\MDB
+FeatureToInstall: Machines\TRUMPF\TRM300W\MDLAS
+FeatureToInstall: Machines\TRUMPF\TRM300W\MDB
+FeatureToInstall: Machines\TRUMPF\TRM2000\MDLAS
+FeatureToInstall: Machines\TRUMPF\TRM2000\MDB
+FeatureToInstall: Machines\TRUMPF\TRM600\MDLAS
+FeatureToInstall: Machines\TRUMPF\TRM600\MDB
+FeatureToInstall: gKadW Full Version\AutoNest\Program_Files
+FeatureToInstall: gKadW Full Version\General_DLLs\Thumbnail x64
+FeatureToInstall: gKadW Full Version\Machine_DLLs
+FeatureToInstall: gKadW Full Version\gKadW\ProE
+FeatureToInstall: gKadW Full Version\gKadW\Program Files
+FeatureToInstall: gKadW Full Version\gKadW\Databases
+FeatureToInstall: gKadW Full Version\SimW\Program Files
+FeatureToInstall: gKadW Full Version\HASP
+FeatureToInstall: gKadW Full Version\CodeMax
+FeatureToInstall: gKadW Full Version\Sim3D
+FeatureToInstall: gKadW Full Version\OCCT
+FeatureToInstall: OEM\Metalix
+FeatureToInstall: Language\English
+FeatureToInstall: Language\LANG_LST\Standard
+FeatureToInstall: Global\Default_Machine_Files\Function_Material_lst
+FeatureToInstall: Global\Documentation
+FeatureToInstall: Global\EditNC
+FeatureToInstall: Global\Fonts
+FeatureToInstall: Global\Metalix Editor
+FeatureToInstall: Report\English
+FeatureToInstall: SystemUnits\Inches\Material_MDB
+FeatureToInstall: SystemUnits\Inches\Tool_Lib
+FeatureToInstall: PlatformSpecific\x64\cncKad
+------------------------
+MoveFileData   finished 
+1
+------------------------
+GetSetVersionAndBuildInRegistry   ACTION_SET results:  0, 0, 0
+1
+------------------------
+InstallHASPDriver   Installing HASP Driver. Please wait...
+1
+------------------------
+SetupFolders   Setup has been completed successfully.
+1
+------------------------
+Install aborted by user
+1
+------------------------
